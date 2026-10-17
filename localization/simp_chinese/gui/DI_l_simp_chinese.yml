@@ -3,7 +3,7 @@
  DI_button_tt: "神圣干预菜单"
  DI_VIEW_TITLE: "神圣干预作弊菜单"
  DI_loading: "窗口加载中……"
-# buttons
+ # buttons
  DI_char_editor_tt: "打开菜单以编辑所有钉选角色的各个方面。这包括当前菜单。"
  DI_pinned_characters_tt: "打开一个菜单，你可以在其中修改货币，查看已标记的角色等。"
  DI_char_spawner_tt: "打开菜单，可以在其中的角色列表中进行选择。"
@@ -20,7 +20,7 @@
  DI_clear_pins_tt: "左键清除所有钉选"
  DI_test_button: "测试窗口"
  DI_test_button_tt: "打开测试窗口。"
-### Character Editor ###
+ ### Character Editor ###
  DI_char_editor: "角色编辑器"
  DI_tab_presents: "编辑器"
  DI_tab_skills: "能力"
@@ -30,7 +30,7 @@
  DI_tab_sexuality: "性取向"
  DI_tab_culture: "文化"
  DI_tab_religion: "宗教"
-# categories in character editor
+ # categories in character editor
  DI_present_char_editor: "礼物"
  DI_present_char_editor_TT: "在菜单中，你可以选择不同类别的“礼物”，帮助或伤害被钉选的角色。"
  DI_skill_char_editor: "能力"
@@ -47,16 +47,16 @@
  DI_culture_group_char_editor_TT: "可以在菜单中选择一种文化，将钉选的角色转换成选择的文化"
  DI_religion_group_char_editor: "宗教"
  DI_religion_group_char_editor_TT: "可以在菜单中选择一种宗教，将钉选的角色转换成选择的宗教"
-### Character Editor Presents ###
+ ### Character Editor Presents ###
  DI_char_editor_present: "显示角色编辑器"
  DI_tab_lifestyle: "生活方式"
  DI_tab_health: "健康"
  DI_tab_innovations: "革新"
  DI_tab_laws: "法律"
-# misc labels
+ # misc labels
  DI_generic_window_choose: "选择类别"
  DI_choose_present: "选择礼物"
-# categories in character editor presents
+ # categories in character editor presents
  DI_present_lifestyle: "生活方式"
  DI_present_lifestyle_TT: "点击后会显示生活方式介绍。"
  DI_present_health: "健康"
@@ -65,7 +65,7 @@
  DI_present_traits_TT: "点击后会显示下面出现的特质。"
  DI_present_laws: "法律"
  DI_present_laws_TT: "点击它将显示法律界面。"
-# health category
+ # health category
  DI_ce_eliminate_health_issues_button: "清除健康问题"
  DI_ce_eliminate_health_issues_button_tt: "#Bold 左键#!清除健康问题"
  DI_ce_good_genes_button: "正面基因"
@@ -90,14 +90,14 @@
  DI_present_health_no_tyranny_change_TT: "将暴政等级锁定为当前值\n#F 左键添加，右键移除#!"
  DI_present_health_no_dread_change: "锁定恐怖值"
  DI_present_health_no_dread_change_TT: "可将恐惧值锁定为当前值。\n#F 左键添加，右键移除#!"
-# traits category
+ # traits category
  DI_ce_randomize_personality_button: "随机化性格"
  DI_ce_randomize_personality_button_tt: "#Bold 左键单击#!随机化性格\n#Bold 右键单击#!清除随机化性格"
  DI_ce_special_traits_button: "特殊的MOD特质"
  DI_ce_special_traits_button_tt: "#Bold 左键单击#!添加本MOD新增所有特殊特质\n#Bold 右键单击#!清除本MOD新增所有特殊特质"
  DI_ce_commander_traits_button: "将领特质"
  DI_ce_commander_traits_button_tt: "#Bold 左键单击#!添加所有将领特质\n#Bold 右键单击#!清除所有将领特质"
-# education traits
+ # education traits
  DI_ce_education_traits_button: "所有教育特质"
  DI_ce_education_traits_button_tt: "#Bold 左键单击#!添加所有教育特质\n#Bold 右键单击#!清除所有教育特质"
  DI_ce_boost_education_button: "提升教育特质"
@@ -126,7 +126,7 @@
  DI_present_traits_midget_TT: "添加和删除特征，使角色成为侏儒\n#F 左键添加，右键移除#!"
  DI_present_traits_ghostly: "幽灵般"
  DI_present_traits_ghostly_TT: "添加和删除特质，让角色看起来像幽灵。\n#F 左键添加，右键移除#!"
-# laws category
+ # laws category
  DI_ce_gender_equality_button: "性别平等"
  DI_ce_gender_equality_button_tt: "#Bold 左键单击#!使信仰获得性别平等教义（如神职人员，接纳女性通奸，男女皆可继承头衔，军事惯例为男女平等）"
  DI_ce_inverse_genders_button: "性别反转"
@@ -145,8 +145,8 @@
  DI_present_laws_gender_female_dominated_TT: "信仰的性别观点是女性主导，神职的性别限制为仅女性，接纳女性通奸，男性通奸为忌讳或罪行，仅女性可继承头衔，军事惯例为仅女性。"
  DI_present_laws_gender_male_dominated: "男性主导"
  DI_present_laws_gender_male_dominated_TT: "信仰的性别观点是男性主导，神职的性别限制为仅男性，接纳男性通奸，女性通奸为忌讳或罪行，仅男性可继承头衔，军事惯例为仅男性。"
-### Character Editor Skills ###
-### Character Editor Titles and Crown Authority ###
+ ### Character Editor Skills ###
+ ### Character Editor Titles and Crown Authority ###
  DI_ce_tab_titles: "头衔"
  DI_ce_tab_crown_authority: "君权"
  DI_ce_take_realm_titles_button: "夺取所有领地头衔"
@@ -175,7 +175,7 @@
  DI_skill_intrigue_tt: "#P 左键单击：#!添加#P [GetPlayer.MakeScope.Var('DI_intrigue_value').GetValue|0]#![intrigue|E]\n#N 右键单击：#!移除#N [GetPlayer.MakeScope.Var('DI_intrigue_value').GetValue|0]#![intrigue|E]"
  DI_skill_learning_tt: "#P 左键单击：#!添加#P [GetPlayer.MakeScope.Var('DI_learning_value').GetValue|0]#![learning|E]\n#N 右键单击：#!移除#N [GetPlayer.MakeScope.Var('DI_learning_value').GetValue|0]#![learning|E]"
  DI_skill_prowess_tt: "#P 左键单击：#!添加#P [GetPlayer.MakeScope.Var('DI_prowess_value').GetValue|0]#![prowess|E]\n#N 右键单击：#!移除#N [GetPlayer.MakeScope.Var('DI_prowess_value').GetValue|0]#![prowess|E]"
-### Perk Points ###
+ ### Perk Points ###
  DI_perk_points: "技能"
  DI_diplomacy_node: "外交"
  DI_perk_point_diplomacy_tt: "#P 左键单击：#!添加#P 1#![diplomacy|E][perk|E]\n#N 右键单击：#!移除#N 1#![diplomacy|E][perk|E]"
@@ -192,7 +192,7 @@
  DI_ce_lifestyle_button_tt: "#Bold 左键单击#!完成[Lifestyle.GetName|E]生活方式树\n#Bold 右键单击#!清除[Lifestyle.GetName|E]生活方式树"
  DI_ce_all_lifestyle_button: "所有生活方式技能"
  DI_ce_all_lifestyle_button_tt: "#Bold 左键单击#!完成所有生活方式树\n#Bold 右键单击#!清除所有生活方式树"
-### Modifiers ###
+ ### Modifiers ###
  DI_modifiers: "修正"
  DI_modifier_maa_type: "选择兵种类型"
  DI_clear_modifiers: "清除所有修正"
@@ -240,7 +240,7 @@
  DI_increment_broken: "#difficulty_hard 禁用#!，由于原版中角色UI的一个问题，该问题会导致许多MOD出现滞后。请使用自定义修正，如果需要自定义修正，请告诉作者。"
  DI_modifiers_desc: "\n#F 左键单击添加，右键单击移除#!\n#F 修改是叠加的，如果单击多次，则会叠加多次#!"
  DI_modifier_add_remove: "\n#F 左键单击添加，右键单击移除#!"
-# Custom Modifiers
+ # Custom Modifiers
  DI_space_marines: "星际战士"
  DI_contraceptive: "避孕"
  DI_immune_to_schemes: "对计谋免疫"
@@ -269,7 +269,7 @@
  DI_personal_tenet_slots: "扩展个人信念"
  DI_personal_tenet_slots_desc: "允许该角色额外持有10条个人信条。"
  no_legitimacy_change: "锁定正统值"
-### Traits ###
+ ### Traits ###
  DI_traits: "特质"
  DI_trait_window_tooltip: "你可以右键单击它来获得更大的修改窗口。"
  DI_ce_tab_physical: "身体"
@@ -304,7 +304,7 @@
  DI_other_traits_tt: "其他特质类"
  DI_tracked_traits: "特质路线"
  DI_tracked_traits_tt: "有特质路线的特质"
-# Custom Traits
+ # Custom Traits
  trait_nnn_challenger: "NNN挑战者"
  trait_nnn_challenger_desc: ""
  trait_nnn_challenger_character_desc: ""
@@ -326,25 +326,25 @@
  trait_DI_immortal: "永生"
  trait_DI_immortal_desc: "阻止因年老而导致的衰老和死亡。"
  trait_DI_immortal_character_desc: ""
-### Sexuality ###
+ ### Sexuality ###
  DI_sexuality: "性取向"
  DI_sexuality_ho: "同性恋"
  DI_sexuality_he: "异性恋"
  DI_sexuality_bi: "双性恋"
  DI_sexuality_as: "无性恋"
-### Culture ###
+ ### Culture ###
  DI_culture_menu_title: "文化"
  DI_change_to_my_culture: "改为我的文化"
  DI_change_to_my_culture_tt: "将钉选角色及其领地文化改为你的文化"
  DI_change_counties_to_my_culture: "将伯爵领改为我的文化"
  DI_change_counties_to_my_culture_tt: "将与你文化不同的钉选角色及其领地的文化改为你的文化"
-### Religion ###
+ ### Religion ###
  DI_religion_menu_title: "宗教"
  DI_change_to_my_religion: "改为我的宗教"
  DI_change_to_my_religion_tt: "将钉选角色及其领地宗教改为你的宗教"
  DI_change_counties_to_my_religion: "将伯爵领改为我的宗教"
  DI_change_counties_to_my_religion_tt: "将与你宗教不同的钉选角色及其领地的文化改为你的文化"
-### Pinned Characters ###
+ ### Pinned Characters ###
  DI_pinned_characters: "钉选角色"
  DI_pinned_characters_no_match: "无钉选角色，右键单击某位角色并开启互动已钉选。"
  DI_pinned_char_var: "已钉选"
@@ -383,11 +383,11 @@
  DI_pin_pinned_tt: "订选在基础游戏中订选列表内所有角色"
  DI_PC_religion_tt: "点击选择角色所皈依宗教"
  DI_PC_culture_tt: "点击选择角色所转换的文化"
- DI_PC_title_tt: "#Bold 左键单击#!将此头衔授予[GetPlayer.GetNameNoTooltip]。\n\n#Bold 右键单击#! #difficulty_hard 开发中#!"
+ DI_PC_title_tt: "#Bold 左键单击#!夺走[GetPlayer.GetNameNoTooltip]头衔\n\n#Bold 右键单击#!还没有做"
  DI_PC_title_options: "头衔选项"
  DI_PC_title_options_tt: "单击选择头衔时发生的情况。"
  DI_unpin_tt: "取消钉选[Character.GetNameNoTooltip]"
-### Title Manager ###
+ ### Title Manager ###
  DI_title_manager: "头衔管理器"
  DI_title_manager_tt: "打开菜单，可以在其中编辑已钉选的头衔。"
  DI_tab_filter: "过滤器"
@@ -452,15 +452,15 @@
  DI_create_entire_dejure_tree_tt: "这将在法理层级中创建高于和低于所选头衔的所有法理头衔"
  game_concept_tribe_holding: "[Localize('game_concept_tribal_holding')]"
 
-### Dejure Title ###
+ ### Dejure Title ###
  DI_dejure_title: "法理头衔"
-### Event Manager ###
+ ### Event Manager ###
  DI_event_manager_title: "#difficulty_hard 测试概念#!"
  DI_event_manager_tt: "占位符"
  DI_em_example_event: "事件示例"
  DI_em_pregnancy: "怀孕"
  DI_em_harm: "伤害"
-### Character Spawner ###
+ ### Character Spawner ###
  DI_char_spawner: "角色生成器"
  DI_char_spawner_female: "女性"
  DI_char_spawner_no_traits: "无特质"
@@ -469,15 +469,15 @@
  DI_char_spawner_immortal: "永生"
  DI_char_spawner_origins: "起源"
  DI_char_spawner_culture: "文化"
- DI_char_spawner_faith: "礼仪"
+ DI_char_spawner_faith: "信仰"
  DI_char_spawner_origin_target: "目标"
- DI_char_spawner_origin_target_tt: "使用接收生成角色的角色所拥有的文化或礼仪。"
+ DI_char_spawner_origin_target_tt: "采用被生成角色所属的文化或信仰。"
  DI_char_spawner_origin_random: "随机"
  DI_char_spawner_random_culture_tt: "#Bold 左键单击#!即可使用配置好的随机文化池。\n#Bold 右键单击#!配置文化池。"
  DI_char_spawner_random_faith_tt: "#Bold 左键单击#!即可使用配置好的随机信仰池。\n#Bold 右键单击#!配置信仰池。"
  DI_char_spawner_select_culture_tt: "#Bold 左键单击#!即可使用当前显示的文化\n#Bold 右键单击#!可选择其他文化"
- DI_char_spawner_select_faith_tt: "#Bold 左键单击#!即可使用当前显示的礼仪\n#Bold 右键单击#!可选择其他礼仪"
- DI_char_spawner_select_faith: "选择礼仪"
+ DI_char_spawner_select_faith_tt: "#Bold 左键单击#!即可使用当前显示的信仰\n#Bold 右键单击#!可选择其他信仰"
+ DI_char_spawner_select_faith: "选择信仰"
  DI_char_spawner_random_options: "随机选项"
  DI_char_spawner_random_culture_title: "随机文化池"
  DI_char_spawner_random_faith_title: "随机信仰池"
@@ -503,7 +503,7 @@
  DI_char_spawner_count_increment_tt: "生成角色的数量"
  DI_char_spawner_count_increment: "宫廷：[GetPlayer.MakeScope.Var('DI_misc_variables_story').Var('DI_char_spawner_count_increment_value').GetValue]"
  DI_char_spawner_age_increment: "年龄：[GetPlayer.MakeScope.Var('DI_misc_variables_story').Var('DI_char_spawner_age_increment_value').GetValue]"
-# buttons
+ # buttons
  DI_parent: "父母"
  DI_parent_tt: "为所选角色生成一个父母。忽略增量值，一次只生成一个角色。父母必须比孩子年长。#difficulty_hard 更换父母可能会产生奇怪的副作用，请谨慎使用。"
  DI_child: "孩子"
@@ -555,18 +555,18 @@
  DI_court_champion: "勇士"
  DI_court_executioner: "处刑人"
  DI_court_artificer: "工匠"
-### Army Spawner ###
+ ### Army Spawner ###
  DI_army_spawner: "军队生成器"
  DI_army_spawner_increment: "宫廷：[GetPlayer.MakeScope.Var('DI_misc_variables_story').Var('DI_army_spawner_increment_value').GetValue]"
  DI_other_army_spawner: "其它"
  DI_army_spawner_increment_tt: "生成兵士的数量。"
  DI_warning_levy: "#difficulty_hard 警告：#!火星兵的产生会影响军事UI中的数值，一旦它们死亡，就不会再补充。"
-### Diplomacy Manager ###
+ ### Diplomacy Manager ###
  DI_diplomacy: "关系管理"
  DI_select_character: "选择角色"
  DI_primary_character: "主要角色"
  DI_secondary_character: "次要角色"
- DI_tertiary_character: "第三个角色"
+ DI_tertiary_character: "第三角色"
  DI_tab_relations: "关系"
  DI_tab_treaties: "停战协议"
  DI_tab_wars: "战争"
@@ -574,10 +574,10 @@
  DI_test: "测试"
  DI_clear_primary: "清除初选"
  DI_clear_secondary: "清除次选"
- DI_clear_tertiary: "清除第三个角色"
-# Relations
+ DI_clear_tertiary: "清除第三选"
+ # Relations 
  DI_relations_tt: "#F 左键单击添加，右键单击移除#!"
- DI_placeholder_tt: "#difficulty_hard 当前尚不可用／占位内容"
+ DI_placeholder_tt: "占位符"
  DI_reset_relations: "重置关系"
  DI_reset_relations_tt: "重置[GetPlayer.Custom('DI_flip_primary_character')]和[GetPlayer.Custom('DI_flip_secondary_character')]的关系"
  DI_good_relations: "正面关系"
@@ -593,14 +593,15 @@
  DI_apply_all_pinned_relations: "给所有钉选角色关系添加已勾选关系"
  DI_apply_all_pinned_relations_tt: "#Bold 左键点击#!以在每对订选的角色之间添加已勾选的关系。\n#Bold 右键点击#!以在每对订选的角色之间移除任何已勾选的关系。\n$DI_relation_add_compatibility_tt$"
  DI_relation_add_compatibility_tt: "#warning 仅在检查冲突家族的关系时禁用添加。如果检查一个家族中的多个级别，则仅添加最高的。移除接受任意组合。#!"
-# Treaties
+ # Treaties
  DI_dip_treaty_button: "停战协议"
  DI_dip_treaty_button_tt: "#Bold 左键单击#!在[GetPlayer.Custom('DI_flip_primary_character')]和[GetPlayer.Custom('DI_flip_secondary_character')]之间签署条约。\n#Bold 右键单击#!撕毁[GetPlayer.Custom('DI_flip_primary_character')]和[GetPlayer.Custom('DI_flip_secondary_character')]之间的条约。[GetPlayer.Custom('DI_dip_conflict_primary_missing')][GetPlayer.Custom('DI_dip_conflict_secondary_missing')]"
  DI_dip_alliance_button: "建立同盟"
  DI_dip_alliance_button_tt: "#Bold 左键单击#![GetPlayer.Custom('DI_flip_primary_character')]和[GetPlayer.Custom('DI_flip_secondary_character')]之间结成联盟。\n#Bold 右键单击#!打破[GetPlayer.Custom('DI_flip_primary_character')]和[GetPlayer.Custom('DI_flip_secondary_character')]之间的联盟。[GetPlayer.Custom('DI_dip_conflict_primary_missing')][GetPlayer.Custom('DI_dip_conflict_secondary_missing')]"
  DI_dip_vassalize_button: "封臣"
  DI_dip_claim_titles_button: "宣称头衔"
- DI_dip_claim_titles_button_tt: "#Bold 左键点击#!可为[GetPlayer.Custom('DI_flip_primary_character')]对选定头衔赋予强宣称。\n#Bold 右键点击#!可在头衔管理器中选择已固定的头衔。[GetPlayer.Custom('DI_dip_conflict_primary_missing')][GetPlayer.Custom('DI_dip_conflict_pinned_titles_missing')]" DI_dip_take_titles_button: "剥夺头衔"
+ DI_dip_claim_titles_button_tt: "#Bold 左键点击#!可为[GetPlayer.Custom('DI_flip_primary_character')]对选定头衔赋予强宣称。\n#Bold 右键点击#!可在头衔管理器中选择已固定的头衔。[GetPlayer.Custom('DI_dip_conflict_primary_missing')][GetPlayer.Custom('DI_dip_conflict_pinned_titles_missing')]"
+ DI_dip_take_titles_button: "剥夺头衔"
  DI_dip_take_titles_button_tt: "#Bold 左键单击#!夺走[GetPlayer.Custom('DI_flip_primary_character')]头衔\n#Bold 右键单击#!在头衔列表中选择头衔。[GetPlayer.Custom('DI_dip_conflict_primary_missing')][GetPlayer.Custom('DI_dip_conflict_pinned_titles_missing')]"
  DI_all_treaty: "与主要角色签订停战协议"
  DI_all_treaty_tt: "所有钉选角色都会与[GetPlayer.Custom('DI_flip_primary_character')]签订停战协议。"
@@ -615,7 +616,7 @@
  DI_every_pinned_alliance: "所有钉选角色同盟"
  DI_every_pinned_alliance_tt: "#Bold 左键单击#!会让每个被钉选的角色都与其他被钉住的角色缔结同盟。\n#Bold 右键单击#!会让每个被钉选的角色都与其他被钉住的角色解除同盟。"
  DI_dip_perma: "永久"
-# Wars
+ # Wars
  DI_dip_war_button: "宣战"
  DI_dip_war_button_tt: "#Bold 左键单击#!在[GetPlayer.Custom('DI_flip_primary_character')]和[GetPlayer.Custom('DI_flip_secondary_character')]之间为所选宣战理由和所选头衔（如有可用）宣战。#difficulty_hard 目前在一场战争中最多可宣称20个头衔，它应从所选头衔列表（复选框中勾选的头衔）中选取排序最高的头衔。#!"
  DI_dip_casus_belli_button: "选择宣战理由"
@@ -630,7 +631,7 @@
  DI_dip_war_score: "[War.GetWarScore|0=+]%"
  DI_all_war: "全部宣战"
  DI_every_pinned_war: "每个被钉选的战争"
-# Family
+ # Family
  DI_dip_adoption_button: "设定父母（保留家族）"
  DI_dip_adoption_button_tt: "[Localize('DI_dip_parents_description_text')]"
  DI_dip_adoption_house_button: "更改家族"
@@ -665,7 +666,7 @@
  DI_dip_make_siblings_button_tt: "[GetPlayer.Custom('DI_flip_secondary_character')]日后就是[GetPlayer.Custom('DI_flip_primary_character')]同父同母的亲兄弟姊妹了！[GetPlayer.Custom('DI_make_siblings_triggered_desc')]"
  DI_dip_create_cadet_branch_button: "创建支系"
  DI_dip_create_cadet_branch_button_tt: "[GetPlayer.Custom('DI_flip_primary_character')]创立其家族的一个旁支。[GetPlayer.Custom('DI_cadet_branch_triggered_desc')]"
-### Artifact Creator ###
+ ### Artifact Creator ###
  DI_artifact_creator: "宝物生成器"
  DI_artifact_list: "宝物列表"
  DI_artifact_type: "宝物类型"
@@ -673,11 +674,11 @@
  DI_artifact_category: "分类"
  DI_artifact_subtype: "子类型"
  DI_artifact_create: "创造宝物"
-# artifact list
+ # artifact list
  DI_artifact_list_title: "宝物"
  DI_tt_take_artifact: "取得宝物"
  DI_destroy_artifact_tt: "摧毁宝物"
-# Dropdown localization keys (with _loc suffix)
+ # Dropdown localization keys (with _loc suffix)
  DI_quality_common_loc: "普通级"
  DI_quality_masterwork_loc: "大师级"
  DI_quality_famed_loc: "名作级"
@@ -685,8 +686,8 @@
  DI_artifact_category_display_loc: "[GetPlayer.MakeScope.Var('DI_artifact_category_display').GetFlagName]_loc"
  DI_artifact_subtype_display_loc: "[GetPlayer.MakeScope.Var('DI_artifact_subtype_display').GetFlagName]_loc"
  DI_artifact_quality_display_loc: "[GetPlayer.MakeScope.Var('DI_artifact_quality_display').GetFlagName]_loc"
-### Culture Editor ###
-# window title is CULTURE_WINDOW_CULTURE
+ ### Culture Editor ###
+ # window title is CULTURE_WINDOW_CULTURE
  DI_ce_convert_counties: "转换伯爵领文化"
  DI_ce_convert_counties_tt: "将“要编辑的文化”栏选中的角色的所有伯爵领转换为“要复制的文化”栏选中的角色的文化。"
  DI_ce_convert_all_pinned: "转换所有被标记者的文化"
@@ -741,19 +742,19 @@
  DI_innovations_by_era: "各时代的革新"
  DI_add_all_innovations: "添加所有革新"
  DI_remove_all_innovations: "移除所有革新"
-### Culture Pillars ###
+ ### Culture Pillars ###
  DI_martial_custom_window_title: "军事惯例"
  DI_ethos_window_title: "精神"
  DI_heritage_window_title: "传承"
  DI_language_window_title: "语言"
-### Faith Editor ###
+ ### Faith Editor ###
  DI_FAITH_EDITOR_TITLE: "信仰编辑"
  DI_select_tenet: "选择教义"
  DI_add_tenet: "添加教义"
  DI_fe_add_tenet_tooltip: "若有可用，添加教义的选项"
  DI_fe_replace_tenet_tooltip: "单击选择该教义的替代（如果可用）"
  DI_other_tenets_heading: "其他教义"
-### INTERACTIONS ###
+ ### INTERACTIONS ###
  interaction_category_cheat_menu: "神圣干预"
  DI_open_cheat_menu: "#color_yellow #bold 神圣干预模组：#!#!开启互动"
  DI_close_cheat_menu: "#color_yellow #bold 神圣干预模组：#!#!关闭互动"
@@ -970,8 +971,8 @@
  DI_take_artifact_interaction: "#color_yellow #bold 神圣干预模组：#!#!取得宝物"
  DI_make_house_head_interaction: "#color_yellow #bold 神圣干预模组：#!#!成为家族首领"
  DI_remove_hook_interaction: "#color_yellow #bold 神圣干预模组：#!#!移除牵制"
- DI_make_tributary_interaction: "#color_yellow #bold (DI)#!#!建立朝贡"
- DI_change_government_extended: "#color_yellow #bold (DI)#!#!改变政体"
+ DI_make_tributary_interaction: "#color_yellow #bold 神圣干预模组：#!#!建立朝贡"
+ DI_change_government_extended: "#color_yellow #bold 神圣干预模组：#!#!改变政体"
  DI_change_government_nomad: "游牧制"
  DI_change_government_republic: "共和制"
  DI_change_government_theocracy: "神权制"
@@ -984,7 +985,7 @@
  DI_change_government_mandala: "曼荼罗制"
  DI_change_government_steppe_admin: "草原行政制"
  DI_change_government_meritocratic: "贤能继承制"
-### Character Interaction Events
+ ### Character Interaction Events 
  DI_sex_interaction_t: "难忘之夜"
  DI_cadetBranch_interaction: "创建支系"
  DI_cadetBranch_interaction_1.desc: "[dynast_interaction|E][recipient.GetFirstNameNoTooltip]创建一个新支系"
@@ -994,7 +995,7 @@
  DI_cadetBranch_event_tooltip.1: "[recipient.GetFirstName]创建支系"
  random_secret: "随机秘密"
  every_secret: "所有秘密#"
-### Events
+ ### Events
  DI_char_editor.1.title: "重新命名"
  DI_char_editor.1.desc: "欢迎使用作弊mod，用它更简单的游玩吧"
  DI_char_editor.1.option: "完成"
@@ -1004,11 +1005,11 @@
  DI_artifact_desc_append: "[selected_artifact.GetDesc][GetPlayer.GetLocalizedText( 'test_saved_text' )]"
  DI_artifact_new_desc: "新描述"
  DI_artifact_append_desc: "附加说明"
-### Test ###
+ ### Test ###
  DI_pregnancy_test: "怀孕测试事件"
  DI_char_editor.1: "命名角色事件"
  DI_test_desc: "这是一个测试互动。"
-### Localized custom text ###
+ ### Localized custom text ###
  DI_custom_text: "[GetPlayer.GetLocalizedText( 'saved_text' )]"
  houseName: "设定家族名"
  DI_get_house_name: "[recipient.GetDynastyHouseNameNoTooltip]"
@@ -1039,92 +1040,92 @@
  DI_province_filter_capital_loc: "检查首都"
  DI_province_filter_empty_loc: "检查未持有"
 
- DI_category_pedestal_loc:0 "台座"
- DI_category_furniture_loc:0 "家具"
- DI_category_ornament_loc:0 "墙饰"
- DI_subtype_small_box_loc:0 "珠宝匣"
- DI_subtype_medium_box_loc:0 "饰品盒"
- DI_subtype_crown_loc:0 "冠冕"
- DI_subtype_divan_loc:0 "沙发椅"
- DI_subtype_table_loc:0 "桌"
- DI_subtype_small_shield_loc:0 "小型盾牌"
- DI_subtype_large_shield_loc:0 "大型盾牌"
+ DI_category_pedestal_loc: "台座"
+ DI_category_furniture_loc: "家具"
+ DI_category_ornament_loc: "墙饰"
+ DI_subtype_small_box_loc: "珠宝匣"
+ DI_subtype_medium_box_loc: "饰品盒"
+ DI_subtype_crown_loc: "冠冕"
+ DI_subtype_divan_loc: "沙发椅"
+ DI_subtype_table_loc: "桌"
+ DI_subtype_small_shield_loc: "小型盾牌"
+ DI_subtype_large_shield_loc: "大型盾牌"
 
- DI_category_alchemy_loc:0 "炼金物品"
- DI_category_armor_loc:0 "盔甲"
- DI_category_book_loc:0 "书籍"
- DI_category_regalia_loc:0 "礼器"
- DI_category_throne_loc:0 "御座"
- DI_category_tournament_loc:0 "比武大会"
- DI_category_trinket_loc:0 "饰品"
- DI_category_weapon_loc:0 "武器"
- DI_subtype_animal_hide_big_loc:0 "大兽皮"
- DI_subtype_animal_hide_loc:0 "动物毛皮"
- DI_subtype_animal_skull_loc:0 "动物头骨"
- DI_subtype_animal_trinket_loc:0 "动物饰品"
- DI_subtype_armor_brigandine_loc:0 "布面甲"
- DI_subtype_armor_lamellar_loc:0 "札甲"
- DI_subtype_armor_laminar_loc:0 "环片甲"
- DI_subtype_armor_mail_loc:0 "锁子甲"
- DI_subtype_armor_plate_loc:0 "板甲"
- DI_subtype_armor_scale_loc:0 "鳞甲"
- DI_subtype_axe_loc:0 "斧"
- DI_subtype_bird_feather_loc:0 "鸟羽"
- DI_subtype_book_loc:0 "书籍"
- DI_subtype_bow_loc:0 "弓"
- DI_subtype_bowl_loc:0 "碗"
- DI_subtype_box_loc:0 "盒子"
- DI_subtype_brooch_loc:0 "胸针"
- DI_subtype_brooch_pedestal_loc:0 "胸针底座"
- DI_subtype_cabinet_loc:0 "陈列柜"
- DI_subtype_chest_loc:0 "箱子"
- DI_subtype_chronicle_loc:0 "编年史"
- DI_subtype_composite_loc:"复合弓"
- DI_subtype_crossbow_loc:0 "弩"
- DI_subtype_dagger_loc:0 "匕首"
- DI_subtype_elixir_loc:0 "仙药"
- DI_subtype_goblet_loc:0 "高脚杯"
- DI_subtype_hammer_loc:0 "战锤"
- DI_subtype_helmet_loc:0 "角盔"
- DI_subtype_helmet_simple_loc:0 "简易头盔"
- DI_subtype_journal_loc:0 "日志"
- DI_subtype_jug_loc:0 "壶"
- DI_subtype_longbow_loc:0 "长弓"
- DI_subtype_mace_loc:0 "钉锤"
- DI_subtype_miscellaneous_loc:0 "杂项"
- DI_subtype_miscellaneous_when_not_court_loc:0 "非宫廷杂项"
- DI_subtype_necklace_loc:0 "项链"
- DI_subtype_necklace_pedestal_loc:0 "项链底座"
- DI_subtype_panacea_loc:0 "万灵药"
- DI_subtype_pas_darmes_spurs_loc:0 "闯关比武马刺"
- DI_subtype_pas_darmes_token_loc:0 "闯关比武信物"
- DI_subtype_pedestal_loc:0 "台座"
- DI_subtype_philosophers_stone_loc:0 "点金石"
- DI_subtype_plate_loc:0 "盘"
- DI_subtype_regalia_loc:0 "礼器"
- DI_subtype_regalia_simple_loc:0 "简易礼器"
- DI_subtype_ring_loc:0 "戒指"
- DI_subtype_scepter_pedestal_loc:0 "权杖基座"
- DI_subtype_scientific_apparatus_loc:0 "科学仪器"
- DI_subtype_sculpture_loc:0 "雕塑"
- DI_subtype_seal_of_investiture_court_loc:0 "宫廷册书"
- DI_subtype_seal_of_investiture_loc:0 "册书"
- DI_subtype_spear_loc:0 "长矛"
- DI_subtype_sword_loc:0 "剑"
- DI_subtype_tapestry_loc:0 "壁毯"
- DI_subtype_throne_loc:0 "御座"
- DI_subtype_throne_special_loc:0 "特殊御座"
- DI_subtype_tournament_favor_loc:0 "比武大会信物"
- DI_subtype_tun_barrel_loc:0 "酒桶"
- DI_subtype_urn_loc:0 "瓮"
- DI_subtype_wall_big_loc:0 "大墙"
- DI_subtype_wall_icon_court_large_loc:0 "宫廷大圣像"
- DI_subtype_wall_icon_court_small_loc:0 "宫廷小圣像"
- DI_subtype_wall_shield_loc:0 "墙盾"
- DI_subtype_wall_shield_special_loc:0 "特殊墙盾"
- DI_subtype_wall_small_loc:0 "小型墙饰"
+ DI_category_alchemy_loc: "炼金物品"
+ DI_category_armor_loc: "盔甲"
+ DI_category_book_loc: "书籍"
+ DI_category_regalia_loc: "礼器"
+ DI_category_throne_loc: "御座"
+ DI_category_tournament_loc: "比武大会"
+ DI_category_trinket_loc: "饰品"
+ DI_category_weapon_loc: "武器"
+ DI_subtype_animal_hide_big_loc: "大兽皮"
+ DI_subtype_animal_hide_loc: "动物毛皮"
+ DI_subtype_animal_skull_loc: "动物头骨"
+ DI_subtype_animal_trinket_loc: "动物饰品"
+ DI_subtype_armor_brigandine_loc: "布面甲"
+ DI_subtype_armor_lamellar_loc: "札甲"
+ DI_subtype_armor_laminar_loc: "环片甲"
+ DI_subtype_armor_mail_loc: "锁子甲"
+ DI_subtype_armor_plate_loc: "板甲"
+ DI_subtype_armor_scale_loc: "鳞甲"
+ DI_subtype_axe_loc: "斧"
+ DI_subtype_bird_feather_loc: "鸟羽"
+ DI_subtype_book_loc: "书籍"
+ DI_subtype_bow_loc: "弓"
+ DI_subtype_bowl_loc: "碗"
+ DI_subtype_box_loc: "盒子"
+ DI_subtype_brooch_loc: "胸针"
+ DI_subtype_brooch_pedestal_loc: "胸针底座"
+ DI_subtype_cabinet_loc: "陈列柜"
+ DI_subtype_chest_loc: "箱子"
+ DI_subtype_chronicle_loc: "编年史"
+ DI_subtype_composite_loc: "复合弓"
+ DI_subtype_crossbow_loc: "弩"
+ DI_subtype_dagger_loc: "匕首"
+ DI_subtype_elixir_loc: "仙药"
+ DI_subtype_goblet_loc: "高脚杯"
+ DI_subtype_hammer_loc: "战锤"
+ DI_subtype_helmet_loc: "角盔"
+ DI_subtype_helmet_simple_loc: "简易头盔"
+ DI_subtype_journal_loc: "日志"
+ DI_subtype_jug_loc: "壶"
+ DI_subtype_longbow_loc: "长弓"
+ DI_subtype_mace_loc: "钉锤"
+ DI_subtype_miscellaneous_loc: "杂项"
+ DI_subtype_miscellaneous_when_not_court_loc: "非宫廷杂项"
+ DI_subtype_necklace_loc: "项链"
+ DI_subtype_necklace_pedestal_loc: "项链底座"
+ DI_subtype_panacea_loc: "万灵药"
+ DI_subtype_pas_darmes_spurs_loc: "闯关比武马刺"
+ DI_subtype_pas_darmes_token_loc: "闯关比武信物"
+ DI_subtype_pedestal_loc: "台座"
+ DI_subtype_philosophers_stone_loc: "点金石"
+ DI_subtype_plate_loc: "盘"
+ DI_subtype_regalia_loc: "礼器"
+ DI_subtype_regalia_simple_loc: "简易礼器"
+ DI_subtype_ring_loc: "戒指"
+ DI_subtype_scepter_pedestal_loc: "权杖基座"
+ DI_subtype_scientific_apparatus_loc: "科学仪器"
+ DI_subtype_sculpture_loc: "雕塑"
+ DI_subtype_seal_of_investiture_court_loc: "宫廷册书"
+ DI_subtype_seal_of_investiture_loc: "册书"
+ DI_subtype_spear_loc: "长矛"
+ DI_subtype_sword_loc: "剑"
+ DI_subtype_tapestry_loc: "壁毯"
+ DI_subtype_throne_loc: "御座"
+ DI_subtype_throne_special_loc: "特殊御座"
+ DI_subtype_tournament_favor_loc: "比武大会信物"
+ DI_subtype_tun_barrel_loc: "酒桶"
+ DI_subtype_urn_loc: "瓮"
+ DI_subtype_wall_big_loc: "大墙"
+ DI_subtype_wall_icon_court_large_loc: "宫廷大圣像"
+ DI_subtype_wall_icon_court_small_loc: "宫廷小圣像"
+ DI_subtype_wall_shield_loc: "墙盾"
+ DI_subtype_wall_shield_special_loc: "特殊墙盾"
+ DI_subtype_wall_small_loc: "小型墙饰"
 
-# Faith editor (CK3 1.20)
+# --- Extra keys not present in English (review/remove if obsolete) ---
  DI_fe_character_rite: "角色礼仪"
  DI_fe_main_rite: "信仰的主要礼仪"
  DI_fe_editing_rite: "编辑：[Rite.GetNameNoTooltip]"
@@ -1180,7 +1181,7 @@
  DI_ce_rite_picker_pinned_tt: "将所有被钉选角色转换为"
  DI_ce_rite_picker_player_tt: "将你的角色转换为"
 
- DI_rite_picker_faith_tt: "#I 点击以展开[Faith.GetNameNoTooltip]的礼仪#!"
+ DI_rite_picker_faith_tt: "#I 点击以推广[Faith.GetNameNoTooltip]礼仪#!"
 
  DI_tm_rite_menu_title: "选择礼仪"
  DI_tm_select_rite_tt: "选择伯爵领要转换的目标礼仪。"
@@ -1188,7 +1189,7 @@
  DI_tm_convert_rite: "转换礼仪"
  DI_tm_convert_rite_tt: "将选中的伯爵领以及所选更高级头衔法理下的伯爵领转换为所选礼仪。"
 
- DI_culture_picker_category_tt: "#I 点击以推广[CulturePillar.GetNameNoTooltip]传承的文化#!"
+DI_culture_picker_category_tt: "#I 点击以推广[CulturePillar.GetNameNoTooltip]传承的文化#!"
 
 # Cultural editor conversion destinations and actions
  DI_cc_conversion_destination: "目标：[GetPlayer.MakeScope.Var('DI_cc_conversion_culture').Culture.GetNameNoTooltip]"
